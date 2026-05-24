@@ -1,0 +1,58 @@
+Privacy Policy
+Last Updated: May 24, 2026
+
+At LightBox, we take your privacy seriously. This Privacy Policy explains how we collect, use, store, and protect your information when you use our AI photo enhancement application. By using LightBox, you agree to the practices described in this policy.
+
+1. Information We Collect
+
+1.1 Photos You Upload
+When you use LightBox to enhance a photo, you voluntarily upload an image from your device's photo library or capture one with your camera. This is the primary data we process.
+
+1.2 Subscription & Purchase Data
+We use RevenueCat to manage subscriptions and in-app purchases. RevenueCat may collect transaction identifiers, subscription status, and device information necessary for billing. RevenueCat does not have access to your photos. For more details, see https://www.revenuecat.com/privacy.
+
+1.3 Device & Usage Information
+We may collect anonymized, aggregated usage data (e.g., feature usage, error logs) to improve app performance and fix bugs. This data does not identify you personally.
+
+2. How We Use Your Data
+
+- AI Enhancement: Your uploaded photo is sent to Google Gemini (via Replit's AI integration) solely for the purpose of applying your chosen enhancement style. The image is processed and a transformed version is returned.
+- Storage in Your Gallery: Enhanced photos are saved locally on your device in our app's private gallery folder. They are never stored on our servers or shared with third parties.
+- Subscription Management: RevenueCat handles billing data to enable subscriptions and credit top-ups.
+
+3. Data Sharing
+
+We do not sell your photos or personal information. The only third-party services that receive data are:
+
+- Google Gemini (via Replit AI Integration): Receives the photo you upload for AI processing. No personal identifiers are attached. Gemini does not retain your photo after processing.
+- RevenueCat: Receives purchase and subscription data only -- never your photos.
+
+4. Data Retention
+
+Your original and enhanced photos are stored only on your device in the app's gallery. You can delete them at any time within the app. If you uninstall LightBox, all app-local data (including gallery photos) is removed from your device. We do not retain copies on our servers.
+
+5. Your Rights
+
+Depending on your location, you may have rights under privacy laws (such as GDPR in the EU or CCPA in California) including:
+
+- The right to access or delete your data
+- The right to withdraw consent
+- The right to data portability
+
+To exercise any of these rights, please contact us using the information below.
+
+6. Children's Privacy
+
+LightBox is not intended for children under 13 (or the applicable minimum age in your country). We do not knowingly collect personal data from children. If you believe a child has provided us with information, please contact us so we can delete it.
+
+7. Security
+
+We take reasonable technical and organizational measures to protect your data. However, no system is completely secure, and we cannot guarantee absolute security.
+
+8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. When we do, we will update the "Last Updated" date above. Continued use of LightBox after changes constitutes acceptance of the revised policy.
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at info@mypicturesbox.com.
